@@ -28,3 +28,16 @@ python train.py
 cd Aesthetics-guidedLLE
 python test.py
 ```
+
+## Citation
+```
+@misc{li2023alle,
+      title={ALL-E: Aesthetics-guided Low-light Image Enhancement},
+      author={Ling Li and Dong Liang and Yuanhang Gao and Sheng-Jun Huang and Songcan Chen},
+      year={2023},
+      eprint={2304.14610},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+   
+```
